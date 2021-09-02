@@ -1,5 +1,7 @@
 # PHPCaptcha
-A Browser based Captcha Generator with a lot of security features + Discord Webhook Integration
+A Browser based Captcha Generator with a lot of security features, Discord Integration (Verification Bot + Webhook), and MySQL integration
+
+Bot can be found here: https://github.com/DiscordJSPH/PHPCaptcha-Bot
 
 # License Notice
 ![AGPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/AGPLv3_Logo.svg/180px-AGPLv3_Logo.svg.png)<br>
