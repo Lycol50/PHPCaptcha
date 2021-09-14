@@ -16,5 +16,5 @@
 --> 
 
 <footer>
-    <p>PHPCaptcha was created by princepines#5041<br>Copyright 2021 Lyco Tatierra, Licensed using Affero GPL</p>
+    <p>PHPCaptcha was created by princepines#5041<br>Copyright 2021 Lyco Tatierra, Licensed using Affero GPL v3</p>
 </footer>
