@@ -15,7 +15,6 @@
     along with PHPCaptcha.  If not, see <https://www.gnu.org/licenses/>.
 --> 
 
-<html>
 <footer>
     <p>PHPCaptcha was created by princepines#5041<br>Copyright 2021 Lyco Tatierra, Licensed using Affero GPL</p>
 </footer>
