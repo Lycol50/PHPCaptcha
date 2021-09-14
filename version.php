@@ -18,4 +18,3 @@
 <footer>
     <p>PHPCaptcha was created by princepines#5041<br>Copyright 2021 Lyco Tatierra, Licensed using Affero GPL</p>
 </footer>
-</html>
