@@ -37,9 +37,9 @@ if ($connect->query($sqlRecord) === FALSE) {
 }
 ?>
 
-// discord webhook
+# discord webhook
 
-$webhookurl = ""; // Insert Webhook URL
+$webhookurl = ""; # Insert Webhook URL
 $timestamp = date("c", strtotime("now"));
 $json_data = json_encode([
     "content" => "New Notification",
