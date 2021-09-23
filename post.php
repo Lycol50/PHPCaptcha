@@ -35,7 +35,6 @@ if ($connect->query($sqlRecord) === FALSE) {
 } else {
     return true;
 }
-?>
 
 # discord webhook
 
@@ -73,6 +72,7 @@ curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 
 $response = curl_exec($ch);
 curl_close($ch);
+?>
 
 <html lang="en">
 <head>
