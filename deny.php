@@ -14,7 +14,7 @@
     You should have received a copy of the GNU General Public License
     along with PHPCaptcha.  If not, see <https://www.gnu.org/licenses/>.
 -->
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>PHPCaptcha</title>
@@ -24,7 +24,7 @@
 </head>
 <body oncopy="return false" onpaste="return false" oncut="return false">
 <h3>Uh Oh, you are not allowed to submit form again.</h3>
-<p>In this case please ask a sysadmin.</p>
+<p>In this case please ask your sysadmin.</p>
 <hr>
 <?php include('version.php'); ?>
 </body>

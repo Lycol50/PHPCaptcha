@@ -74,6 +74,7 @@ $response = curl_exec($ch);
 curl_close($ch);
 ?>
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>PHPCaptcha</title>

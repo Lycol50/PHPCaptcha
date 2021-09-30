@@ -15,6 +15,7 @@
     along with PHPCaptcha.  If not, see <https://www.gnu.org/licenses/>.
 -->
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <title>PHPCaptcha</title>
